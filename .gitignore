@@ -1,0 +1,7 @@
+*.txt
+*.txt.*
+config.yml
+*.sqlite3
+html/*.html
+!html/template.html
+!html/index.html
